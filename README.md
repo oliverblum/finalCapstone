@@ -11,6 +11,7 @@ Installation:
 make sure you have the tabulate library installed by doing the following:
  - Type CMD in the search bar and open the Command Prompt application.
  - Type "pip install tabulate --user" and press Enter
+
 If installation does not work, follow steps in https://www.youtube.com/watch?v=I6-_W-SuSG4
 
 Usage:

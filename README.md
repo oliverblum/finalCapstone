@@ -1,4 +1,4 @@
-project name: ebookstore
+Project name: ebookstore
 
 Short description:
 This is a program that can be used by a bookstore clerk to:

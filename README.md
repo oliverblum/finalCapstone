@@ -23,4 +23,5 @@ make sure you have the tabulate library installed by doing the following:
 If installation does not work, follow steps in https://www.youtube.com/watch?v=I6-_W-SuSG4
 
 Usage:
+
 ![image](https://user-images.githubusercontent.com/123483224/219622312-af51c944-e642-426c-b69f-8e62cf8be949.png)

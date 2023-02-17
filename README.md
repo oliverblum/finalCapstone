@@ -1,6 +1,5 @@
 # ebookstore
 
-Short description:
 This is a program that can be used by a bookstore clerk to:
 - add new books to the database
 - update book information
